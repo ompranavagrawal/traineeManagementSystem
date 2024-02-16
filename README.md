@@ -3,6 +3,7 @@
 The Trainee Management System (TMS) is a sophisticated, web-based application designed to streamline the process of managing trainee information within organizations, training institutions, or any entity involved in providing educational programs or training sessions. Leveraging the Spring MVC framework, this system offers a user-friendly interface coupled with robust backend functionalities to ensure efficient handling and maintenance of trainee data. Below is a comprehensive explanation of its features, architecture, and applications.
 
 **Overview and Usefulness**
+
 The TMS centralizes trainee data management, allowing for easy access, update, and maintenance of information from a single point. This reduces data redundancy and inconsistency, ensuring that all trainee information is accurate and current. Its modular nature, facilitated by Spring's dependency injection, allows for easy scalability to accommodate more trainees or expand functionalities as needed.
 
 **Key Functionalities and Code Implementation**
