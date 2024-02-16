@@ -33,9 +33,13 @@ Code Overview: Displays a form for selecting a trainee to update. It processes t
 Applications
 
 **The Trainee Management System finds its utility in various settings:**
+
 **Training Institutions**: It's ideal for managing enrollments, tracking progress, and maintaining records of trainee achievements in educational programs.
+
 **Corporate Training Programs**: Corporations can manage their internal training sessions, participant details, and evaluate training outcomes efficiently.
+
 **Government and Non-Profit Organizations**: Useful for entities offering training programs as part of employment services or skill development initiatives, helping in participant management and outcome tracking.
+
 **Online Learning Platforms**: With some adaptation, it can also serve online learning platforms to manage virtual trainees and their course progress.
 
 **Architecture and Flow**
