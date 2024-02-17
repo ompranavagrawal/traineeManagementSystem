@@ -33,7 +33,7 @@ Functionality: Facilitates the updating of trainee information.
 Code Overview: Displays a form for selecting a trainee to update. It processes the update through tser.updateTraineeDetails(trainee), handling validation and confirmation of the update process.
 Applications
 
-**The Trainee Management System finds its utility in various settings:**
+The Trainee Management System finds its utility in various settings:
 
 **Training Institutions**: It's ideal for managing enrollments, tracking progress, and maintaining records of trainee achievements in educational programs.
 
